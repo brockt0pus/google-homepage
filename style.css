@@ -72,7 +72,7 @@ li{
 }
 
 input {
-  background-image: url(microphone.png);
+  background-image: url(assets/microphone.png);
   background-size: 24px 24px;
   background-repeat: no-repeat;
   background-position: 97% 50%;
